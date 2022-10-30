@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@1,800&family=DM+Serif+Display:ital@1&family=Pacifico&family=Poppins:wght@200&family=Roboto+Slab:wght@200&family=Roboto:ital,wght@1,300;1,400&display=swap');
+
+@layer base {
+  body {
+    @apply font-[Crimson+pro];
+  }
+  li{
+    @apply px-4 text-2xl;
+
+    @apply cursor-pointer
+    
+  }
+  }
+  
+  .content-div {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+  }
+
+  .content-div hover {
+    background-image: linear-gradient(
+      to right,
+      rgba(112, 157, 255, 0.8)
+      hsla(242, 74%, 64%, 0.8)
+    ) !important;
+  }
