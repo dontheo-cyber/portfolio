@@ -71,22 +71,22 @@ const Navbar = () => {
         <div className=' hidden lg:flex fixed flex-col top-[35%] left-0'>
           <ul>
             <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-700'>
-              <a className='flex justify-between w-full items-center text-gray-300' href=''>Linkedin<FaLinkedin size={30} />
+              <a className='flex justify-between w-full items-center text-gray-300' href='https://www.linkedin.com/in/enyichukwu-theophilus-00723b175/'>Linkedin<FaLinkedin size={30} />
 
               </a>
             </li>
             <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
-              <a className='flex justify-between w-full items-center text-gray-300' href=''>Github<FaGithub size={30} />
+              <a className='flex justify-between w-full items-center text-gray-300' href='https://https://github.com/dontheo-cyber'>Github<FaGithub size={30} />
 
               </a>
             </li>
             <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2d0]'>
-              <a className='flex justify-between w-full items-center text-gray-300' href=''>Email<HiOutlineMail size={30} />
+              <a className='flex justify-between w-full items-center text-gray-300' href='https://dongospel@outlook.com'>Email<HiOutlineMail size={30} />
 
               </a>
             </li>
             <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
-              <a className='flex justify-between w-full items-center text-gray-300' href=''>Resume<BsFillPersonLinesFill size={30} />
+              <a className='flex justify-between w-full items-center text-gray-300' href='https://drive.google.com/drive/my-drive?ths=true'>Resume<BsFillPersonLinesFill size={30} />
 
               </a>
             </li>

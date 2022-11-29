@@ -37,7 +37,7 @@ const Work = () => {
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://bestbitechips.netlify.app'><button className='text-center rounded-lg px-4 py-3 m-2 bg-white font-bold text-gray-700 text-lg'>Demo</button></a>
-                <a href='/'><button className='text-center rounded-lg px-4 py-3 m-2 bg-white font-bold text-gray-700 text-lg'>Code</button></a>
+                <a href='https://https://github.com/dontheo-cyber/portfolio'><button className='text-center rounded-lg px-4 py-3 m-2 bg-white font-bold text-gray-700 text-lg'>Code</button></a>
               </div>
             </div>
           </div>
